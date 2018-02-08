@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "421637785605",
+    "firebase_url": "https://youthgroup-e504e.firebaseio.com",
+    "project_id": "youthgroup-e504e",
+    "storage_bucket": "youthgroup-e504e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421637785605:android:ec170df0fe22e14f",
+        "android_client_info": {
+          "package_name": "com.ajz.youthgroup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421637785605-fl62496uq9dg7q57igsf5vj1hq4i77jb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUH7cIF9oGO1nnoULAMQi6pdWQdGy5DjY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
